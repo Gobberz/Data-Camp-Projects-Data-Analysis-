@@ -1,4 +1,4 @@
-Link to nbviewer for easy reading: https://nbviewer.org/github/Gobberz/Data-Camp-Projects-Data-Analysis-/blob/main/Mobile%20Games%20AB%20Testing%20with%20Cookie%20Cat/Mobile%20Games%20AB%20Testing%20with%20Cookie%20Cat.ipynb 
+[Link to nbviewer for easy reading](https://nbviewer.org/github/Gobberz/Data-Camp-Projects-Data-Analysis-/blob/main/Mobile%20Games%20AB%20Testing%20with%20Cookie%20Cat/Mobile%20Games%20AB%20Testing%20with%20Cookie%20Cat.ipynb) 
 
 Cookie Cats is a hugely popular mobile puzzle game developed by Tactile Entertainment. It's a classic "connect three" style puzzle game where the player must connect tiles of the same color in order to clear the board and win the level. It also features singing cats. We're not kidding!
 
